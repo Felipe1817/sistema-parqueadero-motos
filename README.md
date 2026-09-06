@@ -53,4 +53,5 @@ El sistema permite gestionar el registro de vehículos, controlar entradas y sal
 
 Ingeniero de Software
 
-GitHub: [Felipe1817](https://github.com/Felipe1817)
+- 💻 GitHub: [Felipe1817](https://github.com/Felipe1817)
+- 💼 LinkedIn: [Andrés Felipe Beltrán Medina](https://www.linkedin.com/in/andres-felipe-beltran-medina-525201351/)
